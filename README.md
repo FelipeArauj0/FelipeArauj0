@@ -17,3 +17,4 @@ Meu nome é Felipe Araujo e estou fazendo parte da comunidade [@cubosacademy](ht
 
 ### Gráfico
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=felipearauj0&theme=onedark&custom_title=Top%20%Linguagens)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=felipearauj0)
