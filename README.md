@@ -5,7 +5,7 @@ Meu nome é Felipe Araujo e estou fazendo parte da comunidade [@cubosacademy](ht
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-araujo-9303b720b/)</br>
 <a href="mailto:fearaujo871@gmail.com">:email: fearaujo871@gmail.com</a>
 
-:computer: Hard Skills:  </br>
+### :computer: Hard Skills:  </br>
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![javaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
